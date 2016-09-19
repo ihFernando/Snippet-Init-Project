@@ -1,6 +1,8 @@
 # Snippet-Init-Project
 Snippet para inicialização de projeto utilizando sublime.
 
+<pre>
+	<code>
 {
 	"snippets": {
 		"html": {
@@ -19,6 +21,8 @@ Snippet para inicialização de projeto utilizando sublime.
 		}
 	},
 }
+	<code>
+<pre>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
