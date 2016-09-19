@@ -1,3 +1,3 @@
 # Snippet-Init-Project
- Snippet para inicialização de projeto utilizando sublime.<br>
- Abra o arquivo "snippet.html" para entender como utiliza o snippet.
+ <strong>Snippet para inicialização de projeto utilizando sublime.</strong><br>
+ Abra o arquivo <strong>"snippet.html"</strong> para entender como utiliza o snippet.
